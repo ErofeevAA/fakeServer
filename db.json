@@ -1,106 +1,127 @@
 {
   "STOCKS": [
     {
+      "TICKER": "YNDX",
       "NAME_STOCK": "Yandex",
       "COST_STOCK": 120,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "AAPL",
       "NAME_STOCK": "Apple",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "FEFU",
       "NAME_STOCK": "DVFU",
       "COST_STOCK": 777,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "LTRT",
       "NAME_STOCK": "LesTrit",
       "COST_STOCK": 5000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "FRPST",
       "NAME_STOCK": "FarPost",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "PRVT",
       "NAME_STOCK": "Privet",
       "COST_STOCK": 10,
       "CURRENCY": "₽"
     },
     {
-      "NAME_STOCK": "Gazpr",
+      "TICKER": "GAZP",
+      "NAME_STOCK": "Gazprom",
       "COST_STOCK": 200,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "ARGM",
       "NAME_STOCK": "Argument",
       "COST_STOCK": 77,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "NRGMT",
       "NAME_STOCK": "Neargument",
       "COST_STOCK": 5000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "POTAT",
       "NAME_STOCK": "Potatoes",
       "COST_STOCK": 20000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "KTNK",
       "NAME_STOCK": "Kotenok",
       "COST_STOCK": 120,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "SOBK",
       "NAME_STOCK": "Sobaka",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "ARMGD",
       "NAME_STOCK": "Armagedon",
       "COST_STOCK": 777,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "BOLS",
       "NAME_STOCK": "Bolshe",
       "COST_STOCK": 5000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "ZLATO",
       "NAME_STOCK": "Zolota",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
-      "NAME_STOCK": "And",
+      "TICKER": "ANDI",
+      "NAME_STOCK": "And I",
       "COST_STOCK": 120,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "STCKS",
       "NAME_STOCK": "Stocks",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "POCHT",
       "NAME_STOCK": "Pochti",
       "COST_STOCK": 777,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "ZKNCS",
       "NAME_STOCK": "Zakonchilos",
       "COST_STOCK": 5000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "TITE",
       "NAME_STOCK": "This is the end",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
     },
     {
+      "TICKER": "ISIT",
       "NAME_STOCK": "Is it",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
