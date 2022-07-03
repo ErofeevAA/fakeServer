@@ -1,27 +1,29 @@
-[
-  {
-    "NAME_STOCK": "Yandex",
-    "COST_STOCK": 120,
-    "CURRENCY": "₽"
-  },
-  {
-    "NAME_STOCK": "Apple",
-    "COST_STOCK": 2000,
-    "CURRENCY": "₽"
-  },
-  {
-    "NAME_STOCK": "DVFU",
-    "COST_STOCK": 777,
-    "CURRENCY": "₽"
-  },
-  {
-    "NAME_STOCK": "LesTrit",
-    "COST_STOCK": 5000,
-    "CURRENCY": "₽"
-  },
-  {
-    "NAME_STOCK": "FarPost",
-    "COST_STOCK": 2000,
-    "CURRENCY": "₽"
-  }
-]
+{
+  "STOCKS": [
+    {
+      "NAME_STOCK": "Yandex",
+      "COST_STOCK": 120,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Apple",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "DVFU",
+      "COST_STOCK": 777,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "LesTrit",
+      "COST_STOCK": 5000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "FarPost",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    }
+  ]
+}
