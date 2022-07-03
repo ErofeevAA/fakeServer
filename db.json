@@ -29,6 +29,81 @@
       "NAME_STOCK": "Privet",
       "COST_STOCK": 10,
       "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Gazpr",
+      "COST_STOCK": 200,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Argument",
+      "COST_STOCK": 77,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Neargument",
+      "COST_STOCK": 5000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Potatoes",
+      "COST_STOCK": 20000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Kotenok",
+      "COST_STOCK": 120,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Sobaka",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Armagedon",
+      "COST_STOCK": 777,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Bolshe",
+      "COST_STOCK": 5000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Zolota",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "And",
+      "COST_STOCK": 120,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Stocks",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Pochti",
+      "COST_STOCK": 777,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Zakonchilos",
+      "COST_STOCK": 5000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "This is the end",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Is it",
+      "COST_STOCK": 2000,
+      "CURRENCY": "₽"
     }
   ]
 }
