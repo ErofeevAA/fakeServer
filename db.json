@@ -24,6 +24,11 @@
       "NAME_STOCK": "FarPost",
       "COST_STOCK": 2000,
       "CURRENCY": "₽"
+    },
+    {
+      "NAME_STOCK": "Privet",
+      "COST_STOCK": 10,
+      "CURRENCY": "₽"
     }
   ]
 }
